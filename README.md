@@ -1,1 +1,2 @@
 # Auto_Paper_Sorter
+一个可以调用LLM api帮助科研工作者从WOS上的海量文献中一键快速整理文献的工具！
