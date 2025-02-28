@@ -144,7 +144,7 @@ class AbstractProcessorGUI:
         }
 
         headers = {
-            "Authorization": "Bearer sk-jdurtrtvwrmplswmkhtptswxfairtnrzdsdjoiqqcppzjdfr",
+            "Authorization": "Bearer 这里输入你的api",
             "Content-Type": "application/json"
         }
 
